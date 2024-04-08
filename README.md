@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zung31
 - 👀 I’m interested in debug all day
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on uhmm..i'm still student
-- 📫 How to reach me: zunghoangg@gmail.com
+- 💞️ I’m looking to find a alternance opportunity
+- 📫 How to reach me: hoangdung.dang@uphf.fr
 
 <!---
 zung31/zung31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
