@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zung31
 - 👀 I’m interested in debug all day
-- 💞️ I’m looking to find a alternance opportunity
+- 💞️ I’m looking to find a alternance and internship opportunity
 - 📫 How to reach me: hoangdung.dang@uphf.fr
 
 <!---
