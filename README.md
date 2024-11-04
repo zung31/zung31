@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @zung31
+- 👋 Hi, I’m @zung31. I can work with C/C++, Python, Java, JS (Frameworks, Libraries,..), PHP, SQL.... (many more if you request)
 - 👀 I’m interested in debug all day
-- 💞️ I’m looking to find a alternance and internship opportunity
+- 💞️ I’m looking to find an internship opportunity
 - 📫 How to reach me: hoangdung.dang@uphf.fr
-
-<!---
-zung31/zung31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
